@@ -32,7 +32,7 @@ These are the steps:
 
 ## Materials and Dimensions
 
-Our fence is built from cedar. It's lightweight and great for outdoor projects. While cedar can sometimes be expensive relative to pressure-treated pine, some siding and fence boards are cheaper because they're knotty and only surfaced on one side. 
+Our fence is built from cedar. It's lightweight and great for outdoor projects. While cedar can sometimes be expensive relative to pressure-treated pine, siding and fence boards are often cheaper because they're knotty and only surfaced on one side. 
 
 Cedar ages nicely and doesn't require painting or staining. 
 
@@ -40,13 +40,13 @@ The fence pickets are knotty green cedar 1x4s that are surfaced on one side and 
 
 The horizontal supports and gate frame are made from cedar 2x4s. 
 
-The posts are cedar 4x4s, installed with "no-mix" post cement. 
+The posts are cedar 4x4s, installed with "no mix" post cement. 
 
-Everything is attached with 2" or 1-1/4" stainless steel screws. 
+Everything is attached with 2" or 1-1/4" stainless steel screws. If you use pressure-treated wood instead, choose compatible screws. 
 
-The key components are [fence brackets](https://amzn.to/2CJhUR0) that are attached to the post to hold each fence section. The 2x4 horizontal boards just rest in the brackets instead of being screwed in like they would be in a standard fence. 
+The key components are [fence brackets](https://amzn.to/2CJhUR0) that are attached to the post to hold each fence section. They are similar to joist hangers. The 2x4 horizontal boards just rest in the brackets instead of being screwed in like they would be in a standard fence. 
 
-You can make the fence any size you need to suit your purpose. Ours has 1 date and 4 separate sections. The sections are about 44" tall and 50" wide, but they exact dimensions will be determined by where you have to place your fence posts. 
+You can make the fence any size you need to suit your purpose. Ours has 1 gate and 4 separate sections. The sections are about 44" tall and 50" wide, but the exact dimensions will be determined by where you have to place your fence posts. 
 
 ### Sources
 
