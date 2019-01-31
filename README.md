@@ -10,7 +10,7 @@ The challenge was to build something that would still allow for easy servicing o
 
 ![Removable panel](img/middle-open.jpg)
 
-The project is pretty much the same as building a fixed fence. The secret is to use [fence brackets](https://amzn.to/2CJhUR0) and leave out some of the screws. 
+The project is pretty much the same as building a fixed fence. The secret is to hang each section on pairs of [fence brackets](https://www.truevalue.com/fence-bracket-z-max-for-conencting-rails-with-posts-2-x-4-in) mounted vertically. 
 
 ### Be safe
 
@@ -44,23 +44,25 @@ The posts are cedar 4x4s, installed with "no mix" post cement.
 
 Everything is attached with 2" or 1-1/4" stainless steel screws. If you use pressure-treated wood instead, choose compatible screws. 
 
-The key components are [fence brackets](https://amzn.to/2CJhUR0) that are attached to the post to hold each fence section. They are similar to joist hangers. The 2x4 horizontal boards just rest in the brackets instead of being screwed in like they would be in a standard fence. 
+The key components are fence brackets that are attached to the post to hold each fence section. They are similar to joist hangers. The 2x4 horizontal boards just rest in the brackets instead of being screwed in like they would be in a standard fence. 
 
 You can make the fence any size you need to suit your purpose. Ours has 1 gate and 4 separate sections. The sections are about 44" tall and 50" wide, but the exact dimensions will be determined by where you have to place your fence posts. 
 
 ### Sources
 
-I have included links to some of the materials and tools I used. Some of those are affiliate links, so I may earn a commission on purchases made through those links. 
+I have included links to some of the materials and tools I used. 
 
-However, I would much prefer if you bought these things from a local supplier instead of Amazon. With any DIY project, you're likely to make multiple trips to the store, and you're going to want advice from experts. 
+I highly recommend shopping from local suppliers when you can. With any DIY project, you're likely to make multiple trips to the store, and you're going to want advice from experts. 
 
-None of this content is otherwise sponsored.
+None of this content is sponsored.
+
+The wood for this project is from [Boards and Beams](http://www.woodboardsandbeams.com/) in Fairfield, NJ. The fence brackets and some of the hardware and tools are from [American Royal Hardware](https://ww3.truevalue.com/montclair/Home.aspx) in Montclair, NJ. 
 
 ## Tools
 
 Depending on the dimensions and how fancy you want to get, this build can be done with a saw and a drill/driver. 
 
-However, I used a miter saw to cut the wood and to bevel the post tops, a table saw to rip some of the pickets and bevel the top boards, and a [surface planer](https://amzn.to/2B3Inss) to smooth the pickets. 
+However, I used a miter saw to cut the wood and to bevel the post tops, a table saw to rip some of the pickets and bevel the top boards, and a surface planer to smooth the pickets. 
 
 To attach the top boards, I used a pocket hole jig. You could also use glue or drive screws from the top, or you can leave out the top boards. 
 
@@ -68,20 +70,20 @@ To attach the top boards, I used a pocket hole jig. You could also use glue or d
 
 Here are many of the tools I used. Some of my tools are older and these links may be to newer models or similar items. 
 
- * [Drill](https://amzn.to/2ymaIIh)/[driver](https://amzn.to/2ymm27v)
- * [Circular saw](https://amzn.to/2IHGRyX) or [miter saw](https://amzn.to/2Tinnp0) for cross cuts
- * [Table saw](https://amzn.to/2ThrXnv) for rip cuts
- * [Pocket hole jig](https://amzn.to/2My2p2K) and [screws](https://amzn.to/2WjTd6R) to attach top boards
- * [Speed square](https://amzn.to/2yhrnN2), a guide for making circular saw cuts and squaring up joints
+ * Drill/driver
+ * Circular saw or miter saw for cross cuts
+ * Table saw for rip cuts
+ * Pocket hole jig and screws to attach top boards
+ * Speed square, a guide for making circular saw cuts and squaring up joints
  * Clamps to hold pickets in place before they're screwed in
- * [Level](https://amzn.to/2Wigaat) and [post level](https://amzn.to/2FSwQjW)
- * [Tape measure](https://amzn.to/2MxqruF)
- * [Post hole digger](https://amzn.to/2G27ak0)
+ * Level and post level
+ * Tape measure
+ * Post hole digger
  * Bucket for water for post cement
  * Safety
-   * [Ear protection](https://amzn.to/2OZ2du3)
-   * [Safety glasses](https://amzn.to/2NMfDNc)
-   * [Respirator](https://amzn.to/2NsngU4) with [3M 2097](https://amzn.to/2C1Dh1c) cartridge
+   * Ear protection
+   * Safety glasses
+   * Respirator with 3M 2097 cartridge
 
 ## Posts
 
