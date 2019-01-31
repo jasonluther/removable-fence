@@ -97,6 +97,8 @@ The biggest challenge is to get the posts to be in a line with each other and to
 
 Initially, I laid out the posts to only surround the A/C condensers. But then I decided to add another post so we could store our garbage cans within the fence. I was able to reuse an existing post from the old garbage can area. It doesn't match, but I can live with that. 
 
+If you are enclosing A/C equipment, be sure to leave adequate clearance for air flow. Check your manufacturer's specifications. I probably do not have enough clearance for mine, but I wanted to leave a clear walkway past the fence.
+
 On the other end, I attached the "post" to the house. Existing pipes and wires running to the A/C gear required some creative layout. 
 
 ![Back side](img/weird-side-detail.jpg)
