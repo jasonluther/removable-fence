@@ -12,7 +12,7 @@ The challenge was to build something that would still allow for easy servicing o
 
 The project is pretty much the same as building a fixed fence. The secret is to hang each section on pairs of [fence brackets](https://www.truevalue.com/fence-bracket-z-max-for-conencting-rails-with-posts-2-x-4-in) mounted vertically.
 
-### Be safe
+## Be safe
 
 Any construction project can be dangerous or fatal, so please take appropriate safety precautions and consult a professional when you need help.
 
@@ -20,7 +20,7 @@ Use a respirator when cutting wood, especially if it's pressure-treated. Use hea
 
 I am not a professional, and I am just sharing my experience for information and entertainment purposes. I cannot be held responsible for any damage or injuries that result from actions you take.
 
-### Steps
+## Steps
 
 These are the steps:
 
@@ -66,7 +66,7 @@ However, I used a miter saw to cut the wood and to bevel the post tops, a table 
 
 To attach the top boards, I used a pocket hole jig. You could also use glue or drive screws from the top, or you can leave out the top boards.
 
-![](img/crosscuts.jpg)
+![Miter saw and cut fence boards on the driveway](img/crosscuts.jpg)
 
 Here are many of the tools I used. Some of my tools are older and these links may be to newer models or similar items.
 
